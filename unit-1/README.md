@@ -7,7 +7,13 @@ https://ed.devmountain.com/materials/units/react-proj-1
 
 These are taken from the **Concepts and Objectives** and represent the material you should aim to cover in your standups during the unit's week. Since there are often bonus/level up objectives listed in Frodo, these are the items that seem realistic to teach and demo in the limited time we have for standups. 
 
- - MVP items...
+ - create-react-app
+ - useState
+ - props
+ - reusing components
+ - using .map to render a list 
+ - modifying state with events
+ - How to style components in React
 
 
  ## The Review Project
